@@ -101,7 +101,7 @@ Estou fervendo por dentro de tanta raiva!,raiva
 Não há nada que me irrite mais do que isso,raiva
 Não há nada que me irrite mais do que isso,raiva
 Estou completamente irritado com essa situação desrespeitosa,raiva
-Não quero saber de nada eu te odeio!,raiva
+nao quero saber de nada,raiva
 eu te odeio,raiva
 Estou com uma raiva imensa dessa situação,raiva
 Estou indignado com essa falta de ética,raiva
@@ -116,6 +116,7 @@ Essa negligência me deixa extremamente irritado,raiva
 Estou exasperado com essa falta de respeito,raiva
 Isso me deixa de cabelo em pé!,raiva
 Estou furioso com essa falta de respeito,raiva
+Não quero saber de nada eu te odeio!,raiva
 Que horror!,raiva
 Não suporto mais essa falta de respeito,raiva
 Que decepção!,raiva
@@ -1211,6 +1212,9 @@ Estou em um túnel sem luz,tristeza
 A alma está em frangalhos,tristeza
 Sinto-me desamparado diante disso,tristeza
 A tristeza é como um vazio,tristeza
+carro quebrou,tristeza
+comida queimou,tristeza
+telefone quebrou,tristeza
 Às vezes a tristeza é como um vazio,tristeza
 Sinto-me como um náufrago emocional,tristeza
 Sinto-me um náufrago,tristeza
@@ -2411,6 +2415,14 @@ Sinto-me tão feliz que poderia explodir de alegria!,felicidade
 A vida me presenteou com tantas razões para sorrir que mal consigo conter a felicidade!,felicidade
 A felicidade é contagiosa e estou espalhando-a por aí!,felicidade
 Nada pode perturbar minha paz de espírito hoje!,felicidade
+passei na prova,felicidade,
+ganhei um presente,felicidade,
+fui promovido,felicidade,
+fiz novos amigos,felicidade,
+estou de férias,felicidade,
+cachorro está feliz,felicidade,
+sinto amado,felicidade,
+sinto amada,felicidade,
 Não há lugar onde eu preferiria estar do que aqui e agora!,felicidade
 Hoje é um desses dias que me fazem agradecer pela vida!,felicidade
 Hoje é um dia para comemorar!,felicidade
